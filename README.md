@@ -73,5 +73,5 @@
 ---
 
 <p align="center">
-  ![m1nhb1ee's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1nhb1ee&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=m1nhb1ee&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
