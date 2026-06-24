@@ -34,8 +34,8 @@ I am currently a student at **Hanoi University of Science and Technology (HUST)*
 
 ### 📫 Connect with me
 
-- 🔹 **Portfolio:** [Thêm link portfolio của bạn vào đây]
-- 🔹 **Email:** [Thêm email vào đây]
+- 🔹 **Portfolio:** m1nhb1e.id.vn
+- 🔹 **Email:** minhngtr.b1e@gmail.com
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=m1nhb1ee&show_icons=true&theme=radium" alt="m1nhb1ee's GitHub stats" />
