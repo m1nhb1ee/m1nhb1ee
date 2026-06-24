@@ -4,6 +4,8 @@
 
 <img src="https://github.com/m1nhb1ee/m1nhb1ee/blob/main/banner.gif?raw=true" width="100%" />
 
+---
+
 # 💫 About Me:
 
 - My full name is **Nguyễn Trọng Minh**.
@@ -71,5 +73,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m1nhb1ee&show_icons=true&theme=radium" alt="m1nhb1ee's GitHub stats" />
+  ![m1nhb1ee's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1nhb1ee&show_icons=true&theme=radical)
 </p>
