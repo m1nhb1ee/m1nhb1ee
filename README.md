@@ -2,6 +2,8 @@
 
 > *"I treat AI as production craft, not a black box."*
 
+<img src="https://raw.githubusercontent.com/m1nhb1ee/m1nhb1ee/main/banner%20v2.gif" width="100%" />
+
 ### 💫 About Me:
 
 - My full name is **Nguyễn Trọng Minh**.
