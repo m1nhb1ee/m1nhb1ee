@@ -8,7 +8,6 @@
 - My university is **Hanoi University of Science and Technology (HUST)**.
 - Major: **AI Engineer**.
 - Email contact: **minhngtr.b1e@gmail.com**.
-- 🔹 **Portfolio:** m1nhb1e.id.vn
 - Currently, I'm working across deep learning, backend services, and cloud deployment. 
 
 ### 🌐 Socials:
