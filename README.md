@@ -4,7 +4,7 @@
 
 <img src="https://github.com/m1nhb1ee/m1nhb1ee/blob/main/banner.gif?raw=true" width="100%" />
 
-### 💫 About Me:
+# 💫 About Me:
 
 - My full name is **Nguyễn Trọng Minh**.
 - My university is **Hanoi University of Science and Technology (HUST)**.
@@ -12,14 +12,14 @@
 - Email contact: **minhngtr.b1e@gmail.com**.
 - Currently, I'm working across deep learning, backend services, and cloud deployment. 
 
-### 🌐 Socials:
+# 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nguyen.minh.429093)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tron_gminh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhb1e)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://www.m1nhb1e.id.vn)
 
-### 💻 Tech Stack:
+# 💻 Tech Stack:
 
 <!-- Languages -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -47,7 +47,7 @@
 
 ---
 
-### 🚀 Selected Projects
+# 🚀 Selected Projects
 
 - **[SARa](https://github.com/m1nhb1ee/SARa):** A radiology training stack for medical students. Integrates a multi-modal agent on **MedGemma 4B** with a Django, DRF, and Supabase backend to handle cases, forms, and strict context separation.
 - **[SnakeNet](https://github.com/m1nhb1ee/snakenet):** Custom snake detector programmed from a clean PyTorch codebase. Built with FPN, CBAM, ASPP, and multi-scale heads (CIoU + Focal Loss) to understand every layer—not just the leaderboard.
@@ -58,7 +58,7 @@
 
 ---
 
-### 💼 Experience
+# 💼 Experience
 
 **Frontend & AI Engineer Intern | AVT Software** *(2025)*
 - Developed and shipped production React.js features in an Agile delivery loop.
