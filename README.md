@@ -2,7 +2,7 @@
 
 > *"I treat AI as production craft, not a black box."*
 
-<img src="https://github.com/m1nhb1ee/m1nhb1ee/blob/main/crazybanner.gif?raw=true" width="100%" />
+<img src="https://github.com/m1nhb1ee/m1nhb1ee/blob/main/bannerv1.gif?raw=true" width="100%" />
 
 ---
 
