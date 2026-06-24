@@ -73,5 +73,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m1nhb1ee&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=m1nhb1ee&show_icons=true&bg_color=2B261F&title_color=E8D8B8&text_color=F5E6C8&icon_color=D4A373&hide_border=true&border_radius=15" alt="GitHub Stats" />
 </p>
