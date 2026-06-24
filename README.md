@@ -4,10 +4,11 @@
 
 ### 💫 About Me:
 
-- My full name is **[Điền họ và tên đầy đủ của bạn]**.
+- My full name is **Nguyễn Trọng Minh**.
 - My university is **Hanoi University of Science and Technology (HUST)**.
-- Major: **[Điền chuyên ngành của bạn, vd: Data Science / Information Technology]**.
-- Email contact: **[Điền email của bạn]**.
+- Major: **AI Engineer**.
+- Email contact: **minhngtr.b1e@gmail.com**.
+- 🔹 **Portfolio:** m1nhb1e.id.vn
 - Currently, I'm working across deep learning, backend services, and cloud deployment. 
 
 ### 🌐 Socials:
@@ -67,11 +68,6 @@
 - Handled data curation and preprocessing to empower the LLM with accurate, domain-specific travel data.
 
 ---
-
-### 📫 Connect with me
-
-- 🔹 **Portfolio:** m1nhb1e.id.vn
-- 🔹 **Email:** minhngtr.b1e@gmail.com
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=m1nhb1ee&show_icons=true&theme=radium" alt="m1nhb1ee's GitHub stats" />
