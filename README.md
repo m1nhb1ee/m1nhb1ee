@@ -30,6 +30,10 @@ I am currently a student at **Hanoi University of Science and Technology (HUST)*
 - Developed and shipped production React.js features in an Agile delivery loop.
 - Integrated LLM APIs into client-facing products and contributed to the overall AI pipeline design.
 
+**AI Engineer Intern | Vin Smart Future** *(2026 - Present)*
+- Developed the frontend UI for a travel recommendation OTA chatbot.
+- Handled data curation and preprocessing to empower the LLM with accurate, domain-specific travel data.
+
 ---
 
 ### 📫 Connect with me
