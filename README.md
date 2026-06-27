@@ -53,7 +53,7 @@
 
 - **[SARa](https://github.com/m1nhb1ee/SARa):** A radiology training stack for medical students. Integrates a multi-modal agent on **MedGemma 4B** with a Django, DRF, and Supabase backend to handle cases, forms, and strict context separation.
 - **[SnakeNet](https://github.com/m1nhb1ee/snakenet):** Custom snake detector programmed from a clean PyTorch codebase. Built with FPN, CBAM, ASPP, and multi-scale heads (CIoU + Focal Loss) to understand every layer—not just the leaderboard.
-- **[DeDe](https://github.com/m1nhb1ee/dede):** Evaluates Vietnamese depression-severity cues from social-style text using **Qwen2.5-4B** with LoRA adaptation for clearer failure modes in low-resource environments.
+- **[DeDe](https://github.com/m1nhb1ee/dede):** Evaluates Vietnamese depression-severity cues from social-style text using **MentalRoBERTa** with LoRA adaptation for clearer failure modes in low-resource environments.
 - **[Bunik](https://github.com/m1nhb1ee/bunik):** Admissions pipeline and advising layer. Uses PostgreSQL + Django so the policy layer remains explicitly inspectable instead of being hidden behind pure prompts.
 - **[HustDerm](https://github.com/m1nhb1ee/navHustDerm):** Desktop skincare assistant that crawls SKUs, stores them in MongoDB, and grounds LLM answers on live inventory (JavaFX + Python).
 - **[Traffic-Signs Classification](https://www.kaggle.com/code/duckool/final-hanh):** Vietnamese traffic-sign classifier fine-tuning VGG16 with OpenCV preprocessing. Emphasizes honest metrics on a regional label set.
